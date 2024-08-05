@@ -27,26 +27,27 @@ This showcase is about deploying Active Directory within Azure Virtual Machines.
 <h2>Screenshots Showcasing Results</h2>
 
 <p> 
-Two virtual Machines successfully created.
-<img src="https://github.com/user-attachments/assets/59ba7b84-5ecb-4367-8264-e57382553ae3"/>
+<h5>Two virtual Machines successfully created.</h5>
+<img src="https://github.com/user-attachments/assets/59ba7b84-5ecb-4367-8264-e57382553ae3" height="80%" width="80%">
 </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/4bda2c06-25ee-45a3-9178-14c2072911e5">
+  <h5>Ensure Connectivity between the client and Domain Controller.</h5>
+  <img src="https://github.com/user-attachments/assets/9cf470c0-f494-459c-b297-bbc4643fd341" height="65%" width="65%">
+  <img src="https://github.com/user-attachments/assets/785130cd-7ffe-467d-96b8-f7a3865590b9" height="65%" width="65%">
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <h5>Installing Active Directory and creating Admin account</h5>
+  <img src="https://github.com/user-attachments/assets/654cab4a-60cb-4a20-8462-94c88413460b" height="65%" width="65%"/>
+  <img src="https://github.com/user-attachments/assets/acd68ea0-020f-49ee-b1c2-3f5efce0f1da" height="65%" width="65%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <h5>Joining Client 1 to Domain</h5>  
+<img src="https://github.com/user-attachments/assets/5e5f6529-3f99-4ed7-8095-bc72f6c457b9" height="65%" width="65%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <h5>Used Powershell to create many users and logged into Client 1 computer with a random user that was created</h5>
+<img src="https://github.com/user-attachments/assets/5ee9f1e1-a9b4-4b84-bc76-de1bb10b4d84" height="65%" width="65%"/>
+<img src="https://github.com/user-attachments/assets/bf34b5ae-6ab2-41dd-a6ce-f93f79956bd7" height="65%" width="65%">
 </p>
-<br />
